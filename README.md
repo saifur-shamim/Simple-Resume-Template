@@ -1,4 +1,4 @@
-# Simple-Resume-Template
+# Simple Resume Template
 #### Key Features:
 ##### - Single HTML file
 ##### - Table-based layout
