@@ -1,2 +1,7 @@
 # Simple-Resume-Template
-#### A straightforward and professional resume webpage created using only HTML. It features a clean two-column layout to present professional details effectively, without relying on any CSS styling.
+#### Key Features:
+##### - Single HTML file
+##### - Table-based layout
+##### - Profile picture support 
+##### - Basic text formatting (bold, italic)
+##### - List elements for skills and experiences
